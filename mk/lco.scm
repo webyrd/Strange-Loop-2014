@@ -1,0 +1,7 @@
+(load "mk.scm")
+
+(define evalo
+  (lambda (????)
+    '???))
+
+
